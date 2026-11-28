@@ -1,0 +1,22 @@
+Antler
+======
+
+Antler is a desktop program for reading, flashing and logging Volvo ME7 and
+ME9 engine computers over a J2534 cable.
+
+This repository holds the download page and the releases. The source code is
+kept private.
+
+Credits
+-------
+Antler is built on VolvoTools by Artem (prometey1982):
+
+    https://github.com/prometey1982/VolvoTools
+
+and is published with his permission. VolvoTools traces back to HTS (Hilton's
+Tuning Studio) by dream3R of nefariousmotorsports.com, decompiled and
+rewritten in C++. See the VolvoTools README for the upstream credits (dream3R,
+rkam, jazdw, maZer.GTi and others).
+
+The VolvoTools code remains the copyright of its author. Contact him before
+reusing it.
