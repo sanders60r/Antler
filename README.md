@@ -1,4 +1,4 @@
-**[Download Antler 1.1.0](https://github.com/sanders60r/Antler/releases/download/v1.1.0/Antler-1.1.0.exe)**
+**[Download Antler 1.2.0](https://github.com/sanders60r/Antler/releases/download/v1.2.0/Antler-1.2.0.exe)**
 is the direct link, but please take the time to read this whole page first.
 
 [Help support the development of the Antler project by contributing to ensure its continuous improvement.](https://www.paypal.com/donate/?business=HPAFAKEF7BT34&no_recurring=0&item_name=Help+support+the+development+of+the+Antler+project+by+contributing+to+ensure+its+continuous+improvement.&currency_code=USD)
@@ -35,7 +35,12 @@ computer in one go (memory and flash on ME7, flash on ME9), then opens Send
 report with everything filled in. Press Send, and your car gets added in an
 upcoming update.
 
-## What's new in 1.1.0
+## What's new in 1.2.0
+
+- The 1999 S80 2.0T automatic (20S1 software) is now recognised, with its own
+  logging file. The Ignition tab recognises it too.
+
+From 1.1.0, released the same day:
 
 - The 2007 V50 2.5T (ME9) has its own logging file, and the Fueling, Boost
   control and Ignition tabs recognise it.
