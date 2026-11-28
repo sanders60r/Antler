@@ -1,4 +1,4 @@
-**[Download Antler 0.9.31](https://github.com/sanders60r/Antler/releases/download/v0.9.31/Antler-0.9.31.exe)**
+**[Download Antler 1.1.0](https://github.com/sanders60r/Antler/releases/download/v1.1.0/Antler-1.1.0.exe)**
 is the direct link, but please take the time to read this whole page first.
 
 [Help support the development of the Antler project by contributing to ensure its continuous improvement.](https://www.paypal.com/donate/?business=HPAFAKEF7BT34&no_recurring=0&item_name=Help+support+the+development+of+the+Antler+project+by+contributing+to+ensure+its+continuous+improvement.&currency_code=USD)
